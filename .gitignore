@@ -44,4 +44,5 @@ out/
 .project
 .settings
 .classpath
+.vscode
 
